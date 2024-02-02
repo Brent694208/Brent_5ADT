@@ -3,3 +3,7 @@
  “eclair”
  “ecocheque”
  “ecouteur”
+“egaal”
+“eruit”
+“erpel”
+“estaminet
